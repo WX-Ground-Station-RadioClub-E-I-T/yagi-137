@@ -18,6 +18,22 @@ Yagi antenna for APT and LRPT reception
 |         **XPD**        |      33,7      | dB; @ 137,6MHz; theta = 0º |
 |  **Nominal Impedance** |       50       |             Ohm            |
 
+## Design
+
+|         **MEASURE**         | **VALUE (mm)** |
+|:---------------------------:|:--------------:|
+|     **Reflector length**    |       992      |
+|      **Dipole length**      |      1023      |
+|    **Director 1 length**    |       970      |
+|    **Director 2 length**    |       973      |
+|    **Director 3 length**    |       940      |
+|   **Reflector placement**   |      -751      |
+|     **Dipole placement**    |        0       |
+|   **Director 1 placement**  |       541      |
+|   **Director 2 placement**  |      1280      |
+|   **Director 3 placement**  |      2012      |
+| **Total length of antenna** |      2763      |
+
 ## Results
 
 See the *results* folder for images with the results of the corresponding simulations
