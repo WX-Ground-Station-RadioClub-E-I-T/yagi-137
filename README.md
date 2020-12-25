@@ -22,6 +22,8 @@ Yagi antenna for APT and LRPT reception
 
 See the *results* folder for images with the results of the corresponding simulations
 
+![](./results/3d.jpg)
+
 ## 3D printable parts
 
 For fastening the yagi elements to the main boom, we have designed the following T-shaped, 3D printable pieces: 
