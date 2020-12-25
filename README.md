@@ -28,6 +28,6 @@ See the *results* folder for images with the results of the corresponding simula
 
 For fastening the yagi elements to the main boom, we have designed the following T-shaped, 3D printable pieces: 
 
-![](./results/pieza.jpg)
+![](./3D/pieza.jpg)
 
 You can find both the FreeCAD souce files and the .stl printable files in the *3D* folder
