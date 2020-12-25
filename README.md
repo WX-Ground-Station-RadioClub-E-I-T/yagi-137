@@ -2,6 +2,8 @@
 
 Yagi antenna for APT and LRPT reception
 
+![](./results/foto1.jpg)
+
 ## Antenna specifications
 
 |      **PARAMETER**     |    **VALUE**   |         **OTHERS**         |
