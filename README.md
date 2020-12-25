@@ -20,6 +20,8 @@ Yagi antenna for APT and LRPT reception
 
 ## Design
 
+![](./results/cotas.jpg)
+
 |         **MEASURE**         | **VALUE (mm)** |
 |:---------------------------:|:--------------:|
 |     **Reflector length**    |       992      |
